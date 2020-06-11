@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      通过JAVA自动生成数据字典
+subtitle:   JAVA 数据字典
+date:       2020-06-11
+author:     MY
+header-img: img/post-bg-data.jpg
+catalog: true
+tags:
+    - JAVA
+    - 数据字典
+---
+
 proguard简单来说是为了防止反编译，更准确的说，是使得代码易读性变差。
 
 ### maven pom配置中加入以下：
