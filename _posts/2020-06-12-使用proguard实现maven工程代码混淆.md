@@ -57,7 +57,7 @@ proguard简单来说是为了防止反编译，更准确的说，是使得代码
 -ignorewarnings
 
 # JDK目标版本1.8
--target 1.8
+-target 1.8 
 
 # 不做收缩（删除注释、未被引用代码）
 -dontshrink
